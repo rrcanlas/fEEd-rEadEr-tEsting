@@ -8,11 +8,11 @@ This project is a web-based application that reads RSS feed. This application us
 
 ## Before you start
    
-    - Download the zip file then run the index.html
+   - Download the zip file then run the index.html
 
 ## In completing the project I..
     
-    **Review the [Feed Reader Testing Project Rubric](https://www.udacity.com/course/javascript-testing--ud549)**
+   **Review the [Feed Reader Testing Project Rubric](https://www.udacity.com/course/javascript-testing--ud549)**
 
   1. Took the [JavaScript Testing course]. (https://www.udacity.com/course/javascript-testing--ud549)
 
